@@ -9,7 +9,7 @@ It's good to understand how to configure servers in the crude way, because when 
 Steps for run the system.
 
 1. Run Zookeeper and Kafka servers on localhost with all default.
-2. After that you can start any of the microservices in except of common-kafka, beucause it's just a common module for ease connection.
+2. After that you can start any of the microservices in except of common-kafka, because it's just a common module for ease connection.
 4. Have fun!
 
 Sham Vinicius Fiorin
